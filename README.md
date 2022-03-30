@@ -13,8 +13,6 @@ btw this is a comment
 and this is another line to the comment
 ```
 
-Statements are ended with `!`.
-
 Variables are declared with with keyword `girlboss` and assignment operator / equality checker `gaslight`.
 
 ```
